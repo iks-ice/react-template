@@ -1,6 +1,9 @@
+/* eslint-disable prettier/prettier */
+import React from 'react';
 /**
  * Props
  */
-type AppProps = {};
+type AppProps = {
+};
 
 export { AppProps };
