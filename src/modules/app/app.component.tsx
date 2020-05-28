@@ -2,7 +2,6 @@
 import React, {useState} from 'react';
 import { AppProps } from './app.props';
 import * as styles from './app.scss';
-import { formContext } from '@store/form';
 import { register } from '@core';
 import { Form, TextField, Checkbox, SubmitButton } from '@core/components';
 import { Switch, Route } from 'react-router-dom';
